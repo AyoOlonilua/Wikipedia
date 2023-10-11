@@ -1,4 +1,4 @@
-# Bootstrap-Expo
+# Wikipedia
 By AYO-OLONILUA AYOMIPE
 
 # TECHNOLOGIES USED
@@ -12,7 +12,7 @@ By AYO-OLONILUA AYOMIPE
 
 # Description
 
-Welcome to my website! This website contains information about my work, interests, and projects. 
+A cloned wikipedia home page and nigeria page website. 
 
 # Setup/Installation Requirements
 
